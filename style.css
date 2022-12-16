@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+.heading,.note{
+    font-family: 'Caveat Brush', cursive;
+    color: purple;
+    font-size: x-large;
+}
+
